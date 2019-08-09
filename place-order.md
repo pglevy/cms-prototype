@@ -4,7 +4,7 @@
 
 Fulfilled by Acme Tech Inc.
 
-|          |             |    |
+|               |             |      |
 | ------------- |-------------| -----|
 | Quantity        | 1           | (Change)  |
 | Price        | $149.99           | (Change)  |
@@ -17,7 +17,7 @@ Fulfilled by Acme Tech Inc.
 
 **Total: $157.42**
 
-| **[Place Order](#)** |
-|----------------------|
+<button>Place Order</button>
+
 
 Forgot something? [Continue shopping](#)
