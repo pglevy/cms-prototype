@@ -17,6 +17,6 @@ Fulfilled by Acme Tech Inc.
 
 **Total: $157.42**
 
-## [Place Order](/order-confirmation.html)
+## [Place Order](/cms-prototype/order-confirmation.html)
 
 Forgot something? [Continue shopping](#)
