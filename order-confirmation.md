@@ -2,7 +2,7 @@
 
 **Woot! Your order has been placed.**
 
-![Image of product with thumbs up][http://www.placehold.it/360x120]
+![Image of product with thumbs up](http://www.placehold.it/360x120/E0E0E0/?text=Image of product with thumbs up)
 
 ## What happens next?
 
