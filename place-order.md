@@ -4,8 +4,6 @@
 
 Fulfilled by Acme Tech Inc.
 
-|               |             |      |
-| ------------- |-------------| -----|
 | Quantity        | 1           | (Change)  |
 | Price        | $149.99           | (Change)  |
 | Delivery        | Your desk           | (Change)  |
